@@ -1,0 +1,21 @@
+# Data files — too large for GitHub
+*.nc
+*.grib2
+*.grb
+*.grb2
+*.idx
+*.nc_high
+*.nc_low
+
+# Jupyter checkpoint folders
+.ipynb_checkpoints/
+data/
+output/
+webfiles/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# macOS junk
+.DS_Store
